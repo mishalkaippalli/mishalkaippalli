@@ -19,8 +19,6 @@ I'm a passionate Full Stack Developer focused on building scalable and user-frie
 - Redux
 - JavaScript (ES6+)
 - TypeScript
-- HTML5
-- CSS3
 
 ## Backend
 - Node.js
@@ -97,17 +95,19 @@ Javascript • EJS • Node.js • Express.js • MongoDB
 ---
 
 # 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mishalkaippalli&show_icons=true&theme=github_dark)
 
-![Mishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=mishalkaippalli&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mishalkaippalli&layout=compact&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mishalkaippalli&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=mishalkaippalli&theme=github-dark)
 
 ---
 
 # 🌐 Connect With Me
 
 - GitHub: https://github.com/mishalkaippalli
-- LinkedIn: https://linkedin.com/in/mishal-kaippalli
+- LinkedIn: www.linkedin.com/in/mishal-kaippalli-163270164
+
 
 
 ⭐️ Thanks for visiting my profile!
